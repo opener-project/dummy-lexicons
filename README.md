@@ -7,6 +7,9 @@ lexicons. These dummy lexicons should _only_ contain what is needed for running
 automated tests. Due to their tiny size these lexicons are _not_ suitable for
 production usage.
 
+A tar archive containing just the lexicons can be found at
+<https://s3-eu-west-1.amazonaws.com/opener/dummy-hotel-lexicons.tar.gz>.
+
 ## Requirements
 
 * Ruby
