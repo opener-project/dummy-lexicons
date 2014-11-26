@@ -1,0 +1,5 @@
+prix	verb	value_for_money
+son	adj	noise
+plage	noun	facilities
+situer	verb	location
+parc	verb	parking

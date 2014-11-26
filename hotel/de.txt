@@ -1,0 +1,6 @@
+doppelzimmer	noun	room
+direkt	adj	location
+ausblick	noun	location
+service	noun	staff
+professionell	adj	staff
+service	noun	staff

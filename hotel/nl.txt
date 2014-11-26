@@ -1,0 +1,6 @@
+schoon	adj	cleanliness
+hartje	noun	location
+centrum	noun	location
+loopafstand	noun	location
+service	noun	staff
+personeel	noun	staff

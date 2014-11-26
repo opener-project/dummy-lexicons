@@ -1,0 +1,5 @@
+masaje	noun	facilities
+cena	noun	restaurant
+cajón	noun	room
+personal	noun	staff
+gerente	noun	staff

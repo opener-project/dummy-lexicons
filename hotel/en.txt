@@ -1,0 +1,4 @@
+dirty	noun	cleanliness
+bed	noun	sleeping_comfort
+staff	noun	staff
+friendly	adj	staff
